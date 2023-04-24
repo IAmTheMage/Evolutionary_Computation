@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.edge": "html",
+        "stdlib.h": "c"
+    }
+}
